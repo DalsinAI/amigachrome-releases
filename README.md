@@ -60,4 +60,4 @@ doesn't verify is refused.
 ## Licence
 
 The patches carry AmigaChrome's own licence. This repository's text: Copyright
-(c) 2026 DalsinAI. MIT.
+(c) 2026 AmigaChrome Team. MIT.
